@@ -1,0 +1,16 @@
+{
+  "name": "day-10-morning-challenge",
+  "version": "1.0.0",
+  "description": "Day 10 Morning Challenge",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "*",
+    "@babel/preset-env": "*",
+    "babel-jest": "*",
+    "jest": "^26.4.2"
+  },
+  "author": "Arnav Puri"
+}
