@@ -5,4 +5,6 @@ test('Test cases', () => {
     expect(isModest(2037)).toBe(true);
     expect(isModest(2038)).toBe(false);
     expect(isModest(2039)).toBe(false);
+    expect(isModest(23)).toBe(true);
+    expect(isModest(11)).toBe(false);
 });
