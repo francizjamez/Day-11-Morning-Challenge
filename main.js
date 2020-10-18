@@ -1,4 +1,11 @@
+// Exercise 1
 function isModest(num) {
 }
 
-module.exports = {isModest};
+
+// Exercise 2
+function sortContacts(contacts, order) {
+}
+
+
+module.exports = {isModest, sortContacts};

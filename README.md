@@ -1,7 +1,7 @@
-# Day 10 Morning Challenge - 2
+# Day 10 Morning Challenge
 **Note** - You will be writing solutions to this exercise in [main.js file](./main.js)
 
-# Exercise - The Humble Sequence of the Modest Numbers
+## Exercise 1 - The Humble Sequence of the Modest Numbers
 In this challenge, you have to establish if a positive integer is a Modest number, accordingly to the following algorithm:
 
 - Divide the number into two left and right partitions.
@@ -25,3 +25,23 @@ Given an integer num, implement a function that returns true if num is a Modest 
 - Number (2036) % Right (36) = 20 = Left (20)
 - At least a combination satisfies the condition
 - **It's a Modest number**
+
+
+## Exercise 2 - Contact List
+Write a sorting function that takes in an array of names and sorts them by last name either alphabetically (ASC) or reverse-alphabetically (DESC).
+
+### Examples
+```js
+sortContacts([
+  "John Locke",
+  "Thomas Aquinas",
+  "David Hume",
+  "Rene Descartes"
+], "ASC") 
+// should return [
+//   "Thomas Aquinas",
+//   "Rene Descartes",
+//   "David Hume",
+//   "John Locke"
+// ]
+```
