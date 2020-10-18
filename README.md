@@ -1,4 +1,4 @@
-# Day 10 Morning Challenge
+# Day 11 Morning Challenge
 **Note** - You will be writing solutions to this exercise in [main.js file](./main.js)
 
 ## Exercise 1 - The Humble Sequence of the Modest Numbers
